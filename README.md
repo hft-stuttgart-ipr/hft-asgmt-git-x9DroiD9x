@@ -4,5 +4,5 @@
 # hft-asgmt-git 
 
 ## TODO
-- [ ] Create an index.html file
-- [ ] Push in repo
+- [x] Create an index.html file
+- [x] Push in repo
